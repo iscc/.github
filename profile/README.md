@@ -13,7 +13,7 @@ The ISCC is unique in that it allows independent generation of ISCCs from the sa
 - [iscc-core](https://github.com/iscc/iscc-core): ISO 24138:2024 - Codec & Algorithms - Reference Implementation.
 - [iscc-sdk](https://github.com/iscc/iscc-sdk): Software Development Kit for ISCC integration.
 - [iscc-web](https://github.com/iscc/iscc-web): Lightweight web service for generating ISCCs.
-- [iscc-ieps](https://github.com/iscc/iscc-ieps): ISCC - Enhancement Proposals (IEPs).
+- [iscc-ieps](https://github.com/iscc/iscc-ieps): ISCC - Enhancement Proposals (IEPs) (see also [Huggingface](https://huggingface.co/spaces/iscc/iscc-sct).
 
 ## ISCC-LAB Projects
 
