@@ -15,6 +15,10 @@ The ISCC is unique in that it allows independent generation of ISCCs from the sa
 - [iscc-web](https://github.com/iscc/iscc-web): Lightweight web service for generating ISCCs.
 - [iscc-ieps](https://github.com/iscc/iscc-ieps): ISCC - Enhancement Proposals (IEPs).
 
+## ISCC-LAB Projects
+
+- [iscc-sct](https://github.com/iscc/iscc-sct): ISCC - Semantic-Code Text Prototype 
+
 ## Getting Started
 
 The easiest way to explore the ISCC is our interactive playground at https://huggingface.co/spaces/iscc/iscc-playground
